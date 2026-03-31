@@ -1,0 +1,5 @@
+.env
+dev.db
+*.db
+node_modules/
+.next/
